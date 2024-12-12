@@ -27,15 +27,12 @@ Quantum particles behave differently depending on whether they are being observe
 - When observed (e.g., using a detector), they act like particles, highlighting how measurement affects their behavior.
 
 # Superposition
-
 Subatomic particles exhibit a behavior called **superposition**, where a particle can exist in two states simultaneously until observed. This concept is key in quantum computing. A famous thought experiment by physicist Erwin Schrödinger illustrates superposition: Imagine placing a cat in a box with a radioactive material that could kill it. Until we open the box, we can't know whether the cat is alive or dead, so we say it’s in a superposition of both states. Only by observing do we collapse the state into one outcome.
 
 ## Quantum Entanglement
-
-Another fascinating phenomenon is **quantum entanglement**, described by Albert Einstein as "spooky action." In entanglement, two quantum particles become linked, and changing the state of one will instantly affect the other, even if they're far apart—across rooms, or even galaxies. This mysterious connection puzzled scientists, but it’s been proven to be true.
+**quantum entanglement**, described by Albert Einstein as "spooky action." In entanglement, two quantum particles become linked, and changing the state of one will instantly affect the other, even if they're far apart—across rooms, or even galaxies. This mysterious connection puzzled scientists, but it’s been proven to be true.
 
 ## Quantum Tunneling
-
 **quantum tunneling**, where particles like electrons can pass through barriers that would stop them in classical physics. Even when a strong barrier is placed, an electron might "tunnel" through it, appearing on the other side. This is a challenge for building quantum computers, as we need to control electron flow at incredibly small scales.
 
 # Conclusion
